@@ -1,0 +1,57 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "8VZWxM1paO9bLh4iwu5_l",
+      "createdAt": 1715563763377,
+      "name": "Dante",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "4sexSe5LQVRV089enWfNV",
+      "createdAt": 1715563924385,
+      "name": "Otavio",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "XRijniWDjPmPol8-Xo6xv",
+      "createdAt": 1715564267100,
+      "name": "NewDog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "70UfCTGW9ztyTJk-MciHd",
+      "createdAt": 1715565449370,
+      "name": "Pelucia",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "-wGFT6klUH3o-w-J95vV-",
+      "createdAt": 1716484149220,
+      "name": "Felipe",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "xrkYaa8VFGup38q30SIbo",
+      "createdAt": 1716484301988,
+      "name": "Felipe 3 ",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "FBpy7FC26cFZPqDLj18K5",
+      "createdAt": 1716485784311,
+      "name": "Lilly",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
